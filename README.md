@@ -27,9 +27,9 @@ const data = {
         }
     },
     contact: {
-        website: xolboyev-1.github.io/Portfolio,
-        email: xolboyev.r57mx@gmail.com,
-        instagram: _.xolboyev_1._,
+        website: "xolboyev-1.github.io/Portfolio",
+        email: "xolboyev.r57mx@gmail.com",
+        instagram: "@_.xolboyev_1._"
     },
 };
 ```
