@@ -17,7 +17,7 @@ const data = {
     codename: "Xolboyev",
     status: "still alive",
     doing: "Forging Web Realms...",
-    hobbies: ["{Coding}", "{CTF}", "{Speedcubing}"], // If that even matters lol
+    hobbies: ["{Coding}", "{CTF}", "{Speedcubing}", "{Gaming}"], // If that even matters lol
     code: ["{Python}", "{Javascript}", "{Typescript}", "{Bash}"],
     webdev: {
         frontEnd: {
